@@ -1,0 +1,46 @@
+_repo: Inquiry-Into-the-Origin-and-Course-of-Political-Parties-in-the-United-States_35932
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Van Buren, Martin
+    aliases:
+    - United States President (1837-1841)
+    - Buren, Martin Van
+    birthdate: 1782
+    deathdate: 1862
+    gutenberg_agent_id: '1642'
+    url: http://www.gutenberg.org/2009/agents/1642
+    wikipedia: http://en.wikipedia.org/wiki/Martin_Van_Buren
+  editors:
+  - agent_name: Van Buren, Abraham
+    aliases:
+    - Van Buren, A. (Abraham)
+    - Buren, Abraham Van
+    birthdate: 1807
+    deathdate: 1873
+    gutenberg_agent_id: '37990'
+    url: http://www.gutenberg.org/2009/agents/37990
+  - agent_name: Van Buren, John
+    alias: Buren, John Van
+    birthdate: 1810
+    deathdate: 1866
+    gutenberg_agent_id: '37991'
+    url: http://www.gutenberg.org/2009/agents/37991
+description: ''
+gutenberg_issued: '2011-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35932'
+  lccn: '12023638'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Political parties -- United States'
+- !lcc 'JK'
+title: Inquiry Into the Origin and Course of Political Parties in the United States
+url: http://www.gutenberg.org/ebooks/35932
